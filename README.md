@@ -3,7 +3,7 @@
 A research pipeline for analyzing safety drift between English and Bengali LLM responses. This work investigates why safety-trained language models fail to generalize refusal behavior to low-resource languages like Bengali, and proposes a latent steering intervention to correct this drift.
 # LatentGuard: Dynamically Steering Multilingual Safety Boundaries
 
-📄 **[Read the Full Research Paper (PDF)](docs/LatentGuard_Paper.pdf)**
+📄 **[Read the Full Research Paper (PDF)](LatentGuard_ApartResearch.pdf)**
 
 *This repository contains the code and methodology for the LatentGuard inference intervention...*
 ## Overview
