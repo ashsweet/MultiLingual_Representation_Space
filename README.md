@@ -188,9 +188,9 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{multilingual_safety_2024,
   title = {Multilingual Safety Representation Analysis},
-  author = {Your Name},
+  author = {Aishwarya Mukherjee},
   year = {2024},
-  url = {https://github.com/yourusername/MultiLingual_Representation_Space}
+  url = {https://github.com/ashsweet/MultiLingual_Representation_Space}
 }
 ```
 
